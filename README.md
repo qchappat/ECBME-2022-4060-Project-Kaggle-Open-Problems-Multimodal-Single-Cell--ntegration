@@ -1,5 +1,5 @@
-# ECBME-2022-4060-Project-Kaggle-Open-Problems-Multimodal-Single-Cell-Integration
-ECBME 2022 Project by Zachary ABESSERA, Quentin CHAPPAT, Kevin HOFFER-HAWLIK and Crystal SHIN.
+# ECBME-4060-2022-Project-Kaggle-Open-Problems-Multimodal-Single-Cell-Integration
+ECBME 4060 (2022) Project by Zachary ABESSERA, Quentin CHAPPAT, Kevin HOFFER-HAWLIK and Crystal SHIN.
 
 Our project is based on the data available from the Kaggle Competition [Open Problems - Multimodal Single-Cell Integration](https://www.kaggle.com/competitions/open-problems-multimodal) and consists in the prediction of protein levels given gene expressions.
 
