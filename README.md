@@ -5,4 +5,4 @@ Our project is based on the data available from the Kaggle Competition [Open Pro
 
 We made different models to understand and evaluate how patient-specific, or independent, is the genetic information.
 
-We built 5 different models, available in this repository, and work on the results of each model for our analyzis.
+We built 5 different models, available in this repository, and worked on the results of each model for our analyzis.
